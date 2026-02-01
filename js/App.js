@@ -273,6 +273,7 @@ function showResults(userData) {
     window.scrollTo(0, 0);
 }
 
+
 // Go back to login page
 function goBack() {
     stopSessionTimer();
